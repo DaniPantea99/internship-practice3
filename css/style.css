@@ -284,6 +284,7 @@ header {
     color: white;
     font-size: 14px;
     font-weight: bold;
+    align-self: flex-start;
 }
 
 .hr {
